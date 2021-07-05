@@ -1,0 +1,21 @@
+######################################
+# MediaCommands configuration file.  #
+# Plugin by SaifSharof               #
+# Support @ discord.me/esdevelopment #
+#####################################
+
+# Configurate the messages sent to the players/command senders.
+messages:
+  # If the command is executed by Console.
+  console: 'You must be a player to execute this command.'
+  # If the command is executed by a Player.
+  twitter: '&cOur Twitter &7: &etwitter.com/server'
+  discord: '&cOur Discord &7: &ediscord.gg/server'
+  website: '&cOur Website &7: &ewww.server.net'
+  store: '&cOur Store &7: &estore.server.net'
+
+reload:
+  permission: 'media.reload'
+  permission-message: "[!] &cYou don't have permission to execute this command."
+  message: "&cMediaCommands &7reloaded successfully."
+

@@ -1,0 +1,6 @@
+com\esdevelopment\mediacommands\commands\WebsiteCommand.class
+com\esdevelopment\mediacommands\commands\TwitterCommand.class
+com\esdevelopment\mediacommands\MediaCommands.class
+com\esdevelopment\mediacommands\commands\DiscordCommand.class
+com\esdevelopment\mediacommands\commands\ReloadCommand.class
+com\esdevelopment\mediacommands\commands\StoreCommand.class

@@ -1,0 +1,18 @@
+name: MediaCommands
+version: 1.0-RELEASE
+main: com.esdevelopment.mediacommands.MediaCommands
+api-version: 1.13
+authors: [ SaifSharof ]
+description: MediaCommands
+website: discord.me/esdevelopment
+commands:
+  discord:
+    description: Discord command
+  twitter:
+    description: Twitter command
+  store:
+    description: Store command
+  website:
+    description: Website command
+  mediareload:
+    description: Reloads the plugin.
